@@ -1,0 +1,5 @@
+{
+  "application.js": "application.js",
+  "styles.css": "webpacked-styles.css",
+  "styles.js": "styles.js"
+}
